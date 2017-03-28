@@ -3,7 +3,7 @@
   "info" : {
     "version" : "1.0.0",
     "title" : "Brand API",
-    "description" : "Delta's API that provides branding informationss"
+    "description" : "Delta's API that provides branding informationsssss"
   },
   "host" : "qa-apigateway.delta.com",
   "schemes" : [ "http" ],
